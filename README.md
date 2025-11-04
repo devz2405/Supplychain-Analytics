@@ -43,8 +43,7 @@ This project delivers **data-driven insights** to logistics and supply chain lea
 | :--- | :--- |
 | `/data/` | Raw and cleaned datasets. |
 | `/notebooks/` | **Core Analytics Scripts (EDA, Feature Engineering, Insights).** |
-| `/app/` | Power BI dashboard |
-| `/visualizations/` | Key charts and reports for static consumption. |
+| `/visualizations/` | Power BI dashboard : Key charts and reports for static consumption. |
 
 ---
 
